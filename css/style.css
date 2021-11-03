@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.active ,.focus,.hover {
+    width: 200px;
+    height: 60px;
+    background: red;
+}
+
